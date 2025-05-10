@@ -1,33 +1,41 @@
-# 👋 Hola, soy Eduard Sotelo!
+# 👋 ¡Hola! Soy Eduard Sotelo
 
-🚀 Ingeniero DevOps & Cloud con certificaciones AWS, Kubernetes, CCNP. Apasionado por la automatización, IaC, CI/CD y la innovación tecnológica.
+🚀 Ingeniero DevOps y Cloud con experiencia en automatización, infraestructura como código y despliegue de aplicaciones en la nube. Apasionado por optimizar procesos y garantizar la confiabilidad de los sistemas.
 
 ---
 
-## 🧰 Tech Stack & Skills
+## 🧰 Tecnologías y Herramientas
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232C2E3B.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
-## 📜 Certificaciones
+## 📜 Certificaciones Destacadas
 
-- AWS Certified Solutions Architect – Associate  
-- AWS SysOps Administrator – Associate  
-- AWS Cloud Practitioner  
-- Kubernetes and Cloud Native Associate (KCNA)  
-- CCNP Enterprise
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/21edffdb-eb62-4856-a8f1-cac02fee37f6)
+- [AWS Certified Developer – Associate](https://www.credly.com/badges/4319fa3f-1ddc-4b79-8a25-1ac36c17f756)
+- [AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/f351b014-749a-403c-b4ea-2d72a1d42913)
+- [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/e8404792-e1a7-4713-b32f-4416a2c0bbb5)
+- [Cisco Certified Network Professional Enterprise (CCNP)](https://www.credly.com/badges/2fb003b2-e89b-4a51-b816-8cf5161e1dc1)
+- [Cisco Certified Network Associate (CCNA)](https://www.credly.com/badges/f93da646-4432-4067-b03c-4b007cab64b5)
+
+---
+
+## 🌐 Contacto
+
+- 📧 Correo: [ejsotelo4@gmail.com](mailto:ejsotelo4@gmail.com)
+- 💼 LinkedIn: [Eduard Sotelo](https://www.linkedin.com/in/eduard-sotelo-solano/)
+- 🏅 Credly: [Perfil de Certificaciones](https://www.credly.com/users/eduard-sotelo/)
 
 ---
 
-## 📫 Contacto
-
-- LinkedIn: [tu-linkedin](https://www.linkedin.com/in/eduard-sotelo-solano/)
-- Correo: ejsotelo4@gmail.com
-
----
+¡Gracias por visitar mi perfil! Estoy abierto a colaboraciones y oportunidades para aplicar mis habilidades en proyectos desafiantes.
