@@ -1,4 +1,4 @@
-# 👋 Hola, soy [Eduard Sotelo]!
+# 👋 Hola, soy Eduard Sotelo!
 
 🚀 Ingeniero DevOps & Cloud con certificaciones AWS, Kubernetes, CCNP. Apasionado por la automatización, IaC, CI/CD y la innovación tecnológica.
 
