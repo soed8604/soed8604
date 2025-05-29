@@ -22,9 +22,9 @@
 ## 📜 Certificaciones Destacadas
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/21edffdb-eb62-4856-a8f1-cac02fee37f6)
-- [AWS Certified Developer – Associate](https://www.credly.com/badges/4319fa3f-1ddc-4b79-8a25-1ac36c17f756)
 - [AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/f351b014-749a-403c-b4ea-2d72a1d42913)
-- [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/e8404792-e1a7-4713-b32f-4416a2c0bbb5)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/69d83e12-17ab-4e41-82a0-1149ce8e0f69)
+- [KCNA: Kubernetes and Cloud Native Associate](https://www.credly.com/earner/earned/badge/3a6d4d68-09ab-4f79-b157-18098cb723f9)
 - [Cisco Certified Network Professional Enterprise (CCNP)](https://www.credly.com/badges/2fb003b2-e89b-4a51-b816-8cf5161e1dc1)
 - [Cisco Certified Network Associate (CCNA)](https://www.credly.com/badges/f93da646-4432-4067-b03c-4b007cab64b5)
 
