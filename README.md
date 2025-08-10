@@ -3,6 +3,9 @@
 🚀 Ingeniero DevOps y Cloud con experiencia en automatización, infraestructura como código y despliegue de aplicaciones en la nube. Apasionado por optimizar procesos y garantizar la confiabilidad de los sistemas.
 
 ---
+## 🖼️ Diagrama de Arquitectura
+
+![Diagrama de Arquitectura](https://github.com/user-attachments/assets/1d1168c5-36ab-4f3a-b268-bd1d08495824)
 
 ## 🧰 Tecnologías y Herramientas
 
